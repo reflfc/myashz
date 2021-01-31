@@ -1,2 +1,0 @@
-# myashz
-telebot
